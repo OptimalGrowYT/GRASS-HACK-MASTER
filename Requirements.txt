@@ -1,5 +1,5 @@
 colors
-inquirer
+inquirer@6
 axios
 ws
 uuid
