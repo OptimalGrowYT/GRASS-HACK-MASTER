@@ -1,0 +1,7 @@
+colors
+inquirer
+axios
+ws
+uuid
+socks-proxy-agent
+https-proxy-agent
