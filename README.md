@@ -1,6 +1,6 @@
 ## Grass Hack Master 
 
-## [Sign Up Grass Airdrop :](https://app.getgrass.io/register/?referralCode=qUNOoXMV15BnVBb).
+## [Click Here & SignUp on Grass Airdrop :](https://app.getgrass.io/register/?referralCode=qUNOoXMV15BnVBb).
 
 
 # How to Get GRASS User ID
