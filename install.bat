@@ -3,7 +3,7 @@ echo Starting the bot...
 
 :: Install required npm packages
 npm install colors
-npm install inquirer
+npm install inquirer@6
 npm install axios
 npm install ws
 npm install uuid
