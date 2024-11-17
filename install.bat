@@ -1,16 +1,26 @@
 @echo off
-echo Starting the bot...
+echo Installing required Node.js packages...
 
-:: Install required npm packages
-npm install colors
+:: Install inquirer@6
 npm install inquirer@6
+
+:: Install axios
 npm install axios
+
+:: Install ws
 npm install ws
+
+:: Install uuid
 npm install uuid
+
+:: Install colors
+npm install colors
+
+:: Install socks-proxy-agent
 npm install socks-proxy-agent
+
+:: Install https-proxy-agent
 npm install https-proxy-agent
 
-:: fs is built-in, no need to install it via npm
-echo fs is a built-in Node.js module and does not need to be installed.
-
+echo All packages installed successfully!
 pause
