@@ -73,6 +73,7 @@ pkg install python-is-python3.10 -y
 pkg install -y rust binutils -y
 pkg install nano -y
 pkg install git -y
+npm install node.js
 
 ```
 
