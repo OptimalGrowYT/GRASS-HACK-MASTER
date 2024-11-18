@@ -1,5 +1,7 @@
 ## Grass Hack Master 
 
+<img src="https://github.com/OptimalGrowYT/GRASS-HACK-MASTER/blob/main/Grass%20Thumnail.jpg" alt="توضیح تصویر" width="150" height="150">
+
 ## [Click Here & SignUp on Grass Airdrop :](https://app.getgrass.io/register/?referralCode=qUNOoXMV15BnVBb).
 
 
